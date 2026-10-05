@@ -1,3 +1,13 @@
+#1.create source folder having csv,pdf,json,yaml files 
+#dump into destination directory -- csv file should be into csv dir
+#pdf file into pdf dir etc..
+
+
+#-use :professional code practice [functions,modules,packages]
+#-use exception handling
+#-use -  logger 
+
+
 
 from utils import logger
 import os
